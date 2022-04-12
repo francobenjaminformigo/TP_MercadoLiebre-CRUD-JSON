@@ -16,9 +16,3 @@ _Así que nuestro enfoque en esta oportunidad será desarrollar dicha funcionali
 _"En la ejercitación anterior practicamos cómo debemos preparar el sistema de ruteo de una aplicación para poder codificar un CRUD (Create, Read, Update, Delete) o ABM (Alta, Baja, Modificación)._
 
 _En esta ejercitación estaremos trabajando con nuestra fuente de datos JSON para hacer que los cambios queden almacenados utilizando cada una de las rutas que implementamos en la clase anterior. Además, estaremos trabajando en la subida de imágenes de los productos. ¡Buena suerte!😎👍✨"_
-
-
-
-#
-### _Modulo 4, Clases 11, 12, 13, 14, 15, 16_
-##
